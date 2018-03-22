@@ -1,0 +1,104 @@
+html{
+  background-color: #f3f3f3;
+}
+
+form
+{
+  margin-left: 300px;
+}
+
+.registration-form{
+  text-align: center;
+  margin: -20px 500px 100px 80px
+}
+
+.info{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.info > p {
+  width: auto;
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+
+h1{
+    display: inline-block;
+    box-sizing: border-box;
+    color:  #4c565e;
+    font-size: 28px;
+    padding: 10px;
+    border-bottom: 1px solid #6caee0;
+    margin:0;
+}
+
+#registration{
+
+width:500px;
+background: white;
+padding: 50px 0px
+}
+
+
+
+.name label   {
+  margin-left: -35px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.add label   {
+  margin-left: -52px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.dob label   {
+  margin-left: -83px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.email label   {
+  margin-left: -75px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.telephone label   {
+  margin-left: -38px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.gender label{
+  margin-left: -65px;
+  text-align: left;
+  font-size: 25px;
+  font-weight: bolder;
+
+}
+
+.gender select{
+  margin-left: -5px;
+  text-align: left;
+  font-size: 20px;
+}
+
+
+.checkbox label{
+  font-size: 25px;
+  font-weight: bolder;
+  text-align: left;
+}
+
+#submit{
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 25px;
+
+}
